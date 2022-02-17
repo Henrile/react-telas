@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "project-telas",
+    "slug": "project-telas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "project-telas"
+}
